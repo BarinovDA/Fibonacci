@@ -1,8 +1,10 @@
+package ru.Fibonacci.main;
+
 import java.math.BigInteger;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FibonaciMain {
+public class FibonacciMain {
     private static Map<Integer, BigInteger> mapa = new HashMap<Integer, BigInteger>();
 
     public static void main(String[] args) {
